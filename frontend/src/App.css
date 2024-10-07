@@ -1,0 +1,16 @@
+
+.picture{
+    top:30px;
+    position: absolute;
+    left: 530px;
+    width: 30%;
+    height: 250px;
+}
+.like{
+    height: 70px;
+    width: 80px;
+    position: absolute;
+    left: 550px;
+    top: 300px;
+    border-radius: 50px;
+}
